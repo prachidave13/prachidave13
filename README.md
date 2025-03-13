@@ -24,12 +24,12 @@
   <img src="https://img.shields.io/badge/BeautifulSoup-%23150458.svg?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=prachidave13&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=prachidave13&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=prachidave13&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+# 📊 GitHub Stats:
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=prachidave13&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=prachidave13&theme=radical)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=prachidave13&theme=radical&layout=compact)
+
 
 # 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=prachidave13&limit=5&theme=dracula&combine_all_yearly_contributions=true)
