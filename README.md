@@ -1,10 +1,10 @@
 # 💫 About Me:
-👋 Hey there! I'm Prachi Dave, a passionate Data Engineer and Python enthusiast with a knack for diving into the depths of data. With a background in mining data from Android applications using Selenium and Android Studio, along with expertise in web mining, I thrive on unraveling insights from complex datasets.  💻 I've crafted exciting projects in Python, spanning from Deep Neural Networks to Machine Learning and optimization algorithms. Whether it's building robust predictive models or delving into the world of GANs, I'm always eager to explore innovative solutions to challenging problems.  🚀 Join me on my journey as I continue to push the boundaries of data science and engineering, leveraging my skills to drive impactful results and uncover hidden patterns in the data universe.
+👋 Hey there! I'm Prachi Dave, a passionate AI Engineer and Python enthusiast with a knack for diving into the depths of data. With a background in mining data from Android applications using Selenium and Android Studio, along with expertise in web mining, I thrive on unraveling insights from complex datasets.  💻 I've crafted exciting projects in Python, spanning from Deep Neural Networks to Machine Learning and optimization algorithms. Whether it's building robust predictive models or delving into the world of GANs, I'm always eager to explore innovative solutions to challenging problems.  🚀 Join me on my journey as I continue to push the boundaries of data science and engineering, leveraging my skills to drive impactful results and uncover hidden patterns in the data universe.
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prachidave13) 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prachidave13)
 # 💻 Tech Stack:
 
 <p align="center">
